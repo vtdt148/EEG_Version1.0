@@ -1,0 +1,2 @@
+# EEG_Version1.0
+ nRF52840 ADS1296 EEG Version 1.0
